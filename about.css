@@ -33,6 +33,9 @@ html, body{
 .nav a:hover {
     color: #EA1100;
 }
+.nav a.active{
+    color: #EA1100;
+}
 
 .title {
     display: flex;
